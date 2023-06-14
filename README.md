@@ -1,6 +1,8 @@
 # Integration_IIB_TestService
 RESTful	API	service	for	getting/updating	account	info
+
 - AccountService_APP	- Application	containing	Account	Service	API
+
 *The	following	are	used	by	the	service	but	located	in	iib-common	repository*
 - Common_CICS_LIB	- Library	containing	CICS	HTTP	caller	subflow
 - Common_LIB	- Library	containing	error	handler	subflows
