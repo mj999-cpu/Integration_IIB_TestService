@@ -7,6 +7,7 @@ RESTful	API	service	for	getting/updating	account	info
 - CommonUtils_LIB	- Library	containing	common	util	code
 - Java - Java Project Folder containing java code for logging
 - Subflow_LIB - Library contains logging subflow 
+
 *An	application	is	a	container	for	all	the	resources	that	are	required	to	create	a	solution.	An	application	can	contain	IBM®	
 Integration	Bus	resources,	such	as	flows,	message	definitions,	libraries,	and	JAR	files.*
 
